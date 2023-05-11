@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261465563727",
+    "project_id": "fir-login-34fa5",
+    "storage_bucket": "fir-login-34fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261465563727:android:57f95220d82fdfe255c03a",
+        "android_client_info": {
+          "package_name": "lopez.marco.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261465563727-12qec11d1gpcqjr6nvcdf0q4d050eerc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHu6ptEJqzw67M6D5HlK7u3O3mr-k303Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261465563727-12qec11d1gpcqjr6nvcdf0q4d050eerc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
